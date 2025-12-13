@@ -1,8 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'Inventory')
+<!-- @section('title', 'Inventory') -->
 
 @section('content')
+
+<!-- add https://datatables.net -->
+
 <div class="card border-0 shadow-sm">
     <div class="card-body">
         <div class="d-flex flex-wrap gap-2 mb-3 justify-content-between align-items-center">
